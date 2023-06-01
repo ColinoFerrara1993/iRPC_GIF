@@ -1,0 +1,7 @@
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/GIF++.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/edit_cache.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/rebuild_cache.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/list_install_components.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/install.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/install/local.dir
+/mnt/c/geant4test/irpc_gif_build/CMakeFiles/install/strip.dir

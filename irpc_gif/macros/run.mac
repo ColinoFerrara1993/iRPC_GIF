@@ -1,0 +1,36 @@
+/control/verbose 0
+/tracking/verbose 0
+/run/verbose 0
+
+#/event/verbose 1
+#/tracking/verbose 1
+
+#GPS
+/gps/verbose 0
+/gps/particle gamma
+/gps/energy 662. keV
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+/gps/ang/type iso
+/gps/pos/centre 330. 0. 0. mm
+/gps/pos/rot1 0 0 1 
+/gps/pos/rot2 1 0 0
+/gps/pos/radius 10. mm
+/gps/pos/halfz 10. mm
+/gps/source/intensity 1
+/gps/source/show
+
+
+/run/beamOn 1000000
+
+
+
+#####################################################################
+# OPZIONI DA ATTIVAREPER VISUALIZZARE SIMULAZIONE ANCHE IN MODALITÀ BATCH (SOLO DURANTE SIMULAZIONE E POI SI AUTOCHIUDE)
+# METTERLE ALL'INIZIO DEL FILE 
+#/vis/open OGL
+#/vis/drawVolume
+#/vis/viewer/set/viewpointThetaPhi -90 0
+#/vis/scene/add/hits
+#/vis/scene/add/trajectories
+##############################################################################
